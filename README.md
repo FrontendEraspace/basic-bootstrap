@@ -15,5 +15,5 @@ Bootstrap project for NextJS E-Commerce
 To create a new project using this template, run the following command:
 
 ```sh
-npx @frontend-eraspace/basic-bootstrap folder-name
+npx @frontend-eraspace/basic-bootstrap <app-name>
 ```
